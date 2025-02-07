@@ -9,4 +9,5 @@
 - adding the 1 we subtracted from 7
 - then it will be L + 2G3
 - then if we calculated it , it will give us 7 the given number so we didn't change
-# share with me ur thoughts on email [ahmedthepalm8108@gmail.com]
+# share with me ur thoughts on email 
+**[ahmedthepalm8108@gmail.com]**
