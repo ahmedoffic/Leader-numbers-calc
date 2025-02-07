@@ -11,3 +11,11 @@
 - then if we calculated it , it will give us 7 the given number so we didn't change
 # share with me ur thoughts on email 
 **[ahmedthepalm8108@gmail.com]**
+
+## Copyright Notice  
+
+This repository and the concept of **Leader Numbers** are the original work of **Ahmed**.  
+All rights are reserved, and no one is allowed to use, modify, or distribute any part of this work  
+without **explicit written permission** from the author.  
+
+**Copyright Date:** 2025/2/7 – 10:05 AM (Year 2025) 
